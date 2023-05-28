@@ -4,7 +4,7 @@
 🔭 I’m currently not working <br>🌱 I’m currently learning
 
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/NxfN.gif">
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
 ## 🌐 Socials:
