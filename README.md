@@ -4,6 +4,9 @@
 🔭 I’m currently not working <br>🌱 I’m currently learning
 
 
+https://pbs.twimg.com/profile_banners/1628681332107747330/1685255722/600x200
+
+
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MELLOJUNIOR201) 
 
