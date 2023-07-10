@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m not sure if ur allowedto be here !! <br>🌱 I’m currently learning
+🔭 I’m not sure if ur allowed to be here !! <br>🌱 I’m currently learning
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MELLOJUNIOR201) 
